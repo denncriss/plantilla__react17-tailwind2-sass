@@ -1,0 +1,6 @@
+.main{
+  @apply bg-red-400;
+  &-body{
+    @apply bg-green-600;
+  }
+}
